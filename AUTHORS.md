@@ -479,3 +479,4 @@ TypeScript is authored by:
  - Zixiang Li
  - @Zzzen
  - 阿卡琳
+ - gino farina
